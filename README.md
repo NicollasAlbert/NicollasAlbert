@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-- 🌱 Atualmente estou aprendendo desenvolvimento Front-End e pro Back-End quero aprender Python
+- 🌱 Atualmente estou aprendendo desenvolvimento Front-End, e pro Back-End quero aprender Python
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
